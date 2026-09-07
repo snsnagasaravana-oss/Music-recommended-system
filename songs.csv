@@ -1,0 +1,31 @@
+song_id,title,artist,genre,mood,language,energy,danceability
+1,Why This Kolaveri Di,Dhanush,Pop,Happy,Tamil,8,9
+2,Vaathi Coming,Anirudh Ravichander,Mass,Excited,Tamil,10,9
+3,Arabic Kuthu,Anirudh Ravichander,Pop,Happy,Tamil,9,10
+4,Enjoy Enjaami,Dhee,Indie,Happy,Tamil,8,9
+5,Rowdy Baby,Dhanush,Pop,Romantic,Tamil,9,10
+6,Megham Karukatha,Dhanush,Melody,Romantic,Tamil,6,7
+7,Marana Mass,Anirudh Ravichander,Mass,Excited,Tamil,10,9
+8,Anbe En Anbe,Harris Jayaraj,Melody,Romantic,Tamil,5,6
+9,Vaseegara,Harris Jayaraj,Melody,Romantic,Tamil,4,5
+10,New York Nagaram,A R Rahman,Melody,Sad,Tamil,4,4
+11,Inkem Inkem Inkem Kaavaale,Gopi Sundar,Romantic,Romantic,Telugu,6,7
+12,Samajavaragamana,S Thaman,Melody,Romantic,Telugu,5,6
+13,Butta Bomma,Armaan Malik,Pop,Happy,Telugu,8,9
+14,Srivalli,Devi Sri Prasad,Melody,Romantic,Telugu,6,7
+15,Ranjithame,Vijay,Pop,Happy,Tamil,9,10
+16,Arabic Kuthu Remix,Anirudh Ravichander,Dance,Excited,Tamil,10,10
+17,Why This Kolaveri Remix,Dhanush,Dance,Happy,Tamil,9,9
+18,Perfect,Ed Sheeran,Pop,Romantic,English,5,6
+19,Shape of You,Ed Sheeran,Pop,Happy,English,9,9
+20,Blinding Lights,The Weeknd,Pop,Excited,English,9,8
+21,Someone Like You,Adele,Melody,Sad,English,3,3
+22,Love Story,Taylor Swift,Country,Romantic,English,6,7
+23,Believer,Imagine Dragons,Rock,Excited,English,10,7
+24,Counting Stars,OneRepublic,Pop,Happy,English,8,8
+25,Let Her Go,Passenger,Acoustic,Sad,English,3,3
+26,Cheap Thrills,Sia,Pop,Happy,English,9,10
+27,Stay,Justin Bieber,Pop,Romantic,English,8,8
+28,Heat Waves,Glass Animals,Indie,Melancholic,English,7,8
+29,Thunder,Imagine Dragons,Rock,Excited,English,9,7
+30,Photograph,Ed Sheeran,Acoustic,Romantic,English,4,4
